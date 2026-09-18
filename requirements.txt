@@ -4,6 +4,7 @@ scipy
 scikit-learn
 matplotlib
 openpyxl
+jupyterlab
 nbformat
 nbclient
 ipykernel
