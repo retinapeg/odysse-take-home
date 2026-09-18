@@ -33,7 +33,7 @@ jupyter lab notebooks/Odysse_Ride_Analysis.ipynb
 On Windows, replace the `source` line with `.venv\Scripts\activate`.
 
 JupyterLab opens the notebook in your browser. Choose **Run → Run All Cells**; it takes about a
-minute and a half. The last cells re-assert every number quoted in the text and print
+minute. The last cells re-assert every number quoted in the text and print
 `All quoted numbers reproduce.`
 
 To run the whole notebook from the terminal instead, without opening a browser:
